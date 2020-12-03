@@ -7,6 +7,7 @@ const qualificacoes = ["- Conhecimentos nas linguagens html, css e javascript (a
 "- Conhecimentos da biblioteca React js e da plataforma Node js (aulas praticadas na udemy)",
 "- Conhecimento básico na linguagem Python (aulas praticadas na udacity)",
 "- Conhecimento básico/intermediário na linguagem C# => Cursado durante 3 semestres na faculdade termomecânica (introdução ao básico, funções, métodos, Windows forms, programação orientada a objetos e estrutura de dados).",
+"- Conhecimentos em versionamento de código com git/github;",
 "- Introdução a Programação orientada a objetos => Durante 1 semestre na faculdade termomecânica.",
 "- Introdução ao uso de banco de dados SQL Server => Durante 1 semestre na faculdade termomecânica."]
 
