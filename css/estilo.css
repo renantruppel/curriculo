@@ -89,15 +89,6 @@ img.foto_Pessoal
     border-top: 2px solid black;
 }
 
-
-.descricao
-{
-    font-size: 1.5em;
-    margin-top: 15px;
-    display: block;
-}
-
-
 .titulo
 {
     font-size: 2.3em;
@@ -105,13 +96,33 @@ img.foto_Pessoal
     display: block;
 }
 
-.exp_Empresa
+.descricao_formacao
+{
+    font-size: 1.5em;
+    margin-top: 40px;
+    display: block;
+}
+
+.descricao_exp_Empresa, .descricao_qualificacoes
 {
     font-size: 1.5em;
     margin-top: 40px; 
     font-weight: bold;
     display: block;
 }
+
+
+.subdescricao
+{
+    font-size: 1.5em;
+    margin-top: 12px;
+    display: block;
+}
+
+
+
+
+
 
 
 @media(max-width:1350px) {
@@ -160,11 +171,13 @@ img.foto_Pessoal
         border-right: 0px;
     }
 
-    .titulo {
+    .titulo 
+    {
         font-size: 2.0em;
     }
 
-    .descricao, .exp_Empresa{
+    .descricao_formacao,.descricao_exp_Empresa,.descricao_qualificacoes,.subdescricao
+    {
         font-size: 1.2em;
     }
 }
@@ -197,7 +210,7 @@ img.foto_Pessoal
         font-size: 1.9em;
     }
 
-    .descricao, .exp_Empresa{
+    .descricao_formacao,.descricao_exp_Empresa,.descricao_qualificacoes,.subdescricao{
         font-size: 1.2em;
     }
 }
